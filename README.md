@@ -47,7 +47,7 @@ The Bank Loan Customer Analytics Dashboard project offers comprehensive insights
 - **Home Ownership vs. Last Payment Date Stats:** The majority of loans are held by individuals with "RENT" and "MORTGAGE" categories of home ownership.
 
 **Improvement Points:**
-- Increasing marketing efforts to target specific home ownership categories based on payment counts.
+- Increasing marketing efforts to target specific homeownership categories based on payment counts.
 - Tailoring loan products to cater to the needs of different home ownership groups.
 - Partnering with real estate agents and property management companies to reach a wider audience.
 
